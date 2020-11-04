@@ -2,7 +2,7 @@
 import random
 import os
 
-print("동전확률 노가다 계산기 by 오은총")
+print("동전확률 계산기")
 
 def validate(a):
 
